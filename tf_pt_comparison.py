@@ -6,3 +6,4 @@
 #Run the analyis usin PyTorch record time and accuracy
 
 
+import tensorflow
